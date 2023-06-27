@@ -1,4 +1,4 @@
-# NUPE
+# New Unity Project Explorer - NUPE
 
 Welcome
 
