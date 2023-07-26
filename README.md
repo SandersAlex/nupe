@@ -16,3 +16,5 @@ Support: Standalone (Win, Mac), APK, IPA
   The app will and already includes things that Unity will never do or has already "killed".
 
   Discord - https://discord.com/channels/1089506605210554499/1089506605684506694
+
+![Logo](https://github.com/SandersAlex/nupe/raw/main/logo-black.png)
